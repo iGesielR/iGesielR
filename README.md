@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Ingeniero+en+Sistemas;Soporte+Tecnológico+⚡;Desarrollador+Web+🚀" alt="Typing SVG" />
-
 <p align="center">
   <a href="#sobre-mí">Sobre Mí</a> •
   <a href="#habilidades">Habilidades</a> •
@@ -51,13 +49,21 @@ Soy un profesional apasionado por la tecnología, especializado en la gestión d
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="195px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=iGesielR&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="195px" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUÍ&theme=tokyonight" alt="Racha de GitHub" height="195px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=iGesielR&theme=tokyonight" alt="Racha de GitHub" height="195px" />
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+## 🐍 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iGesielR/iGesielR/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 </div>
 
 ---
@@ -67,10 +73,10 @@ Soy un profesional apasionado por la tecnología, especializado en la gestión d
 ¡Siempre estoy abierto a colaborar en proyectos de desarrollo o compartir conocimientos sobre infraestructura!
 
 <p align="left">
-  <a href="mailto:tu-correo@email.com" target="_blank">
+  <a href="mailto:cristiangon020600@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/cristian-gesiel-gonzalez-resendiz-2aa095289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
