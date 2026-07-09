@@ -3,7 +3,11 @@ name: Generate Datas
 on:
   schedule: # Se ejecuta cada 12 horas automáticamente
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Te permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch: 
+
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,7 +16,6 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          
           github_user_name: iGesielR
           
           # Esto genera el SVG del juego con una paleta de colores oscura y bordes morados/rosas
