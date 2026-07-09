@@ -46,20 +46,24 @@ Soy un profesional apasionado por la tecnología, especializado en la gestión d
 ---
 
 <a id="estadisticas"></a>
-## 📊 Estadísticas de GitHub (Interactivo)
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=iGesielR&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="195px" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=iGesielR&theme=tokyonight" alt="Racha de GitHub" height="195px" />
-      </td>
-    </tr>
-  </table>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iGesielR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iGesielR&layout=compact&langs_count=8&theme=tokyonight"/>
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iGesielR&theme=tokyonight" alt="GitHub Streak"/>
+
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=iGesielR&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
+
 </div>
+
 
 ---
 
