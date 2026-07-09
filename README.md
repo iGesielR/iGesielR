@@ -1,9 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <a href="#sobre-mí">Sobre Mí</a> •
+  <a href="#sobre-mi">Sobre Mí</a> •
   <a href="#habilidades">Habilidades</a> •
-  <a href="#estadísticas">Estadísticas</a> •
+  <a href="#estadisticas">Estadísticas</a> •
   <a href="#contacto">Contacto</a>
 </p>
 
@@ -11,6 +11,7 @@
 
 </div>
 
+<a id="sobre-mi"></a>
 ## 👤 Sobre Mí
 
 Soy un profesional apasionado por la tecnología, especializado en la gestión de infraestructura tecnológica, soporte técnico y desarrollo de software. Combino un sólido conocimiento en hardware y redes con habilidades modernas de desarrollo web Full Stack para ofrecer soluciones integrales y eficientes.
@@ -21,6 +22,7 @@ Soy un profesional apasionado por la tecnología, especializado en la gestión d
 
 ---
 
+<a id="habilidades"></a>
 ## 🛠️ Habilidades y Tecnologías
 
 ### 👨‍💻 Desarrollo Web (Full Stack)
@@ -43,13 +45,14 @@ Soy un profesional apasionado por la tecnología, especializado en la gestión d
 
 ---
 
+<a id="estadisticas"></a>
 ## 📊 Estadísticas de GitHub (Interactivo)
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=iGesielR&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="195px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=iGesielR&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="195px" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=iGesielR&theme=tokyonight" alt="Racha de GitHub" height="195px" />
@@ -68,6 +71,7 @@ Soy un profesional apasionado por la tecnología, especializado en la gestión d
 
 ---
 
+<a id="contacto"></a>
 ## 🤝 Conectemos
 
 ¡Siempre estoy abierto a colaborar en proyectos de desarrollo o compartir conocimientos sobre infraestructura!
