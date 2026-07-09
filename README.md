@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**iGesielR/iGesielR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Ingeniero+en+Sistemas;Soporte+Tecnológico+⚡;Desarrollador+Web+🚀" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="#sobre-mí">Sobre Mí</a> •
+  <a href="#habilidades">Habilidades</a> •
+  <a href="#estadísticas">Estadísticas</a> •
+  <a href="#contacto">Contacto</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+</div>
+
+## 👤 Sobre Mí
+
+Soy un profesional apasionado por la tecnología, especializado en la gestión de infraestructura tecnológica, soporte técnico y desarrollo de software. Combino un sólido conocimiento en hardware y redes con habilidades modernas de desarrollo web Full Stack para ofrecer soluciones integrales y eficientes.
+
+- 🛠️ Actualmente me desempeño en el área de **Soporte Tecnológico**, asegurando la continuidad operativa.
+- 💻 Dedico mi tiempo libre a diseñar y construir aplicaciones web interactivas y escalables.
+- 🧠 Siempre buscando aprender nuevas tecnologías y enfrentar nuevos retos lógicos.
+
+---
+
+## 🛠️ Habilidades y Tecnologías
+
+### 👨‍💻 Desarrollo Web (Full Stack)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 🖥️ Soporte Técnico e Infraestructura
+* **Soporte a Usuarios:** Diagnóstico, resolución de problemas en sitio y remoto.
+* **Mantenimiento de Equipos:** Mantenimiento preventivo y correctivo de hardware y software en equipos de cómputo.
+* **Comunicaciones y Telefonía:** Configuración y soporte en sistemas de Telefonía IP y redes de datos.
+* **Gestión de Infraestructura:** Monitoreo de servicios tecnológicos críticos y seguimiento integral de incidencias mediante sistemas de tickets.
+
+---
+
+## 📊 Estadísticas de GitHub (Interactivo)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="195px" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUÍ&theme=tokyonight" alt="Racha de GitHub" height="195px" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🤝 Conectemos
+
+¡Siempre estoy abierto a colaborar en proyectos de desarrollo o compartir conocimientos sobre infraestructura!
+
+<p align="left">
+  <a href="mailto:tu-correo@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
